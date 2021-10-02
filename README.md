@@ -23,3 +23,5 @@ Space invaders is a popular arcade game
 
 ## Important Note
 If you are cloning this project, please change directory variable to the path you where you have installed the project
+
+## Author : [yashas-hm](https://github.com/yashas-hm)
